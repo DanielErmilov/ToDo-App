@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="colorFormats">
+        <attr name="itemBackgroundColor" format="color" />
+    </declare-styleable>
+</resources>

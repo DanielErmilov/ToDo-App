@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">To-Do-List</string>
+    <string name="to_do_list">To-Do List</string>
+    <string name="logo">Logo</string>
+    <string name="textview">TextView</string>
+    <string name="meine_aufgaben">Meine Aufgaben</string>
+    <string name="erledigte_aufgaben">Erledigte Aufgaben</string>
+    <string name="keine_aufgaben">Es gibt keine Aufgaben</string>
+    <string name="keine_erledigte_aufgaben">Es gibt keine erledigte Aufgaben</string>
+    <string name="keine_beschreibung_vorhanden">(keine Beschreibung vorhanden)</string>
+    <string name="add_todo">Add ToDo</string>
+    <string name="titel">Titel:*</string>
+    <string name="titel_eingeben">Hier Titel eingeben</string>
+    <string name="beschreibung">Beschreibung:</string>
+    <string name="beschreibung_eingeben">Hier Beschreibung eingeben</string>
+    <string name="erforderlich">* erforderlich</string>
+    <string name="titel_und_beschreibung_eingeben">Bitte Titel und Beschreibung eingeben</string>
+    <string name="loeschetodo">loescheToDo</string>
+    <string name="deletetodo">DeleteToDo</string>
+    <string name="todo_details">ToDo Details</string>
+    <string name="id">ID:</string>
+    <string name="titel1">Titel:</string>
+    <string name="erledigt">Erledigt:</string>
+</resources>
